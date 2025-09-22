@@ -1,11 +1,5 @@
 
 
- 
-
-To understand how to apply styles more precisely, 
-review Resource #2: CSS Selectors – Classes and IDs.
-Update your HTML files to include:
-
 At least two custom classes used on multiple elements
 At least two unique IDs used to style individual sections
 In style.css, define custom styles using those class and ID selectors. 

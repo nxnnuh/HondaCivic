@@ -31,9 +31,11 @@ img{
 }
 
 #carperks{
-    width: 50%;
+    width: 100%;
     background-color: slategrey;
     color: whitesmoke;
+    margin: auto;
+    padding: 3;
 }
 
 
@@ -41,4 +43,16 @@ img{
 #carperks, #QandA{
     flex: 1;
     padding: 0;
+    display: block;
+    border-radius: 8px;
+}
+
+.button{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    margin: 10px;
 }
