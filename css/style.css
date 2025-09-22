@@ -18,7 +18,7 @@ body{
 }
 
 img{
-    width: 100%;
+    width: 65%;
     border-radius: 8px;
     display: block;
     margin: auto;
@@ -35,14 +35,14 @@ img{
     background-color: slategrey;
     color: whitesmoke;
     margin: auto;
-    padding: 3;
+    padding: 10;
 }
 
 
 
 #carperks, #QandA{
     flex: 1;
-    padding: 0;
+    padding: 10;
     display: block;
     border-radius: 8px;
 }

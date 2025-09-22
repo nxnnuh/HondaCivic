@@ -1,29 +1,10 @@
 
 
-At least two custom classes used on multiple elements
-At least two unique IDs used to style individual sections
-In style.css, define custom styles using those class and ID selectors. 
-Your styles should demonstrate:
 
-Control over color, layout, or spacing
-Purposeful differentiation between sections (e.g., headers vs. footers)
-To understand how to structure content on your page, 
-Review Resource #3: Structuring Content with Flexbox.
-Update at least one page to include:
 
-A container with display: flex and gap styling
-Side-by-side content layout (e.g., songs and albums example 
-in Resource #3, or two sections within <main>).
 
-Preview in Live Server to ensure that your layout updates 
-are working as intended and that all your styles are being implemented.
-Save, commit, and push your work to GitHub. Ensure you have
- at least three separate commits from this assignment.
 
-git add .
-git commit -m "Added styles for main page layout and Flexbox"
-git push
-Submit the link to your GitHub repository. Your repository should:
+
 
 Include index.html, page2.html, and style.css files.
 Contain clear, readable code with comments
