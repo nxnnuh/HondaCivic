@@ -25,12 +25,14 @@ img{
 }
 
 #QandA {
+    display: flex;
     width: 100%;
     background-color: lightslategray;
     color: whitesmoke;
 }
 
 #carperks{
+    display: flex;
     width: 100%;
     background-color: slategrey;
     color: whitesmoke;
