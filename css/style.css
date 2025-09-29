@@ -27,14 +27,14 @@ img{
 #QandA {
     display: flex;
     width: 100%;
-    background-color: lightslategray;
-    color: whitesmoke;
+    background-color: lightgray;
+    color: rgb(20, 20, 20);
 }
 
 #carperks{
     display: flex;
     width: 100%;
-    background-color: slategrey;
+    background-color: #161448;
     color: whitesmoke;
     margin: auto;
     padding: 10;
@@ -57,4 +57,23 @@ img{
     font-size: 16px;
     display: inline-block;
     margin: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    header, main, footer {
+        padding: 10px;
+    }
+
+    img {
+        width: 90%;
+    }
+
+    #QandA, #carperks {
+        flex-direction: column;
+    }
 }
