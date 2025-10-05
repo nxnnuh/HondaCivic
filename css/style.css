@@ -1,7 +1,10 @@
-header{
+.index_header{
     background-color: rgb(20, 20, 20);
     color: whitesmoke;
-    text-align:center;
+}
+.upgrades_header {
+    background-color: #3B75BD;
+    color: whitesmoke;
 }
 
 h4{
@@ -33,11 +36,11 @@ img{
 
 #carperks{
     display: flex;
-    width: 100%;
-    background-color: #161448;
+    width: 90%;
+    background-color: #1d1c3f;
     color: whitesmoke;
-    margin: auto;
-    padding: 10;
+    margin: 25px;
+    padding: 20px;
 }
 
 
@@ -78,7 +81,3 @@ img{
     }
 }
 
-.upgrades_header {
-    background-color: #3B75BD;
-    color: lightgray;
-}
